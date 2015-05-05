@@ -458,6 +458,7 @@
     <maven.antrun.version>1.6</maven.antrun.version>
     <maven.assembly.version>2.4</maven.assembly.version>
     <maven.build.timestamp.format>yyyy-MM-dd'T'HH:mm</maven.build.timestamp.format>
+    <maven.repo.local>/opt/tools/repo/.m2/repository</maven.repo.local>
     <maven.resources.plugin.version>2.6</maven.resources.plugin.version>
     <maven.site.version>3.3</maven.site.version>
     <metrics-core.version>2.2.0</metrics-core.version>
